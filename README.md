@@ -11,3 +11,4 @@ docker run --rm -v "$(pwd)":/app qiskit-demo
 En PowerShell (Windows):
 docker run --rm -v ${PWD}:/app qiskit-demo
 
+# SIGEC
